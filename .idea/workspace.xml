@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f621e41-593f-4926-a3f2-ee72fd5fbef4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ZA2M40yt9OY4TyYiqaDnBfOwki" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/valeriya/Desktop/Code/Aztec/aztec-token-bridge/packages/l1-contracts/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aztec-token-bridge/aztec-contracts" />
+      <recent name="$PROJECT_DIR$/aztec-token-bridge/packages" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-c986f194a52a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f621e41-593f-4926-a3f2-ee72fd5fbef4" name="Changes" comment="" />
+      <created>1701850513395</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701850513395</updated>
+      <workItem from="1701850521958" duration="2256000" />
+      <workItem from="1701853244299" duration="49000" />
+      <workItem from="1701853295478" duration="1200000" />
+      <workItem from="1701856385198" duration="362000" />
+      <workItem from="1701856751896" duration="1425000" />
+      <workItem from="1701861404175" duration="1044000" />
+      <workItem from="1701935302890" duration="751000" />
+      <workItem from="1702023205518" duration="1956000" />
+      <workItem from="1702025621758" duration="2347000" />
+      <workItem from="1702029596794" duration="1192000" />
+      <workItem from="1702031230723" duration="1395000" />
+      <workItem from="1702032711158" duration="477000" />
+      <workItem from="1702281923148" duration="8287000" />
+      <workItem from="1702301300129" duration="265000" />
+      <workItem from="1702367896410" duration="111000" />
+      <workItem from="1702368010198" duration="1543000" />
+      <workItem from="1702369725886" duration="1189000" />
+      <workItem from="1702370921373" duration="29000" />
+      <workItem from="1702370953083" duration="6675000" />
+      <workItem from="1702384040205" duration="3728000" />
+      <workItem from="1702453344846" duration="1361000" />
+      <workItem from="1702488864301" duration="5816000" />
+      <workItem from="1702552613627" duration="579000" />
+      <workItem from="1702553270549" duration="298000" />
+      <workItem from="1702553572529" duration="2216000" />
+      <workItem from="1702560674254" duration="290000" />
+      <workItem from="1702563206391" duration="3162000" />
+      <workItem from="1702624915758" duration="1633000" />
+      <workItem from="1702637975128" duration="2881000" />
+      <workItem from="1702641500534" duration="2558000" />
+      <workItem from="1702644500991" duration="200000" />
+      <workItem from="1702832832023" duration="413000" />
+      <workItem from="1703577657099" duration="1162000" />
+      <workItem from="1703580810434" duration="8000" />
+      <workItem from="1703580830904" duration="118000" />
+      <workItem from="1703580964417" duration="7144000" />
+      <workItem from="1703591937048" duration="1103000" />
+      <workItem from="1703593221440" duration="1398000" />
+      <workItem from="1703601273289" duration="5548000" />
+      <workItem from="1703607802581" duration="1661000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
