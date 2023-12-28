@@ -10,6 +10,7 @@ import {
   createPXEClient,
   getSandboxAccountsWallets,
   waitForSandbox,
+  sleep
 } from "@aztec/aztec.js";
 import {
   TokenBridgeContract,
